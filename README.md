@@ -8,4 +8,7 @@ There is only 1 developer which is me only
 If you can't see the Pokedex, check whether the URL is correct.
 Wrong URL: https://starailkafka.github.io/Pokedex
 Correct URL: https://starailkafka.github.io/Pokedex/Pokedex
-I don't know why my URL looks strange, anyway enjoy my CLASSIC Pokedex
+I don't know why my URL looks strange, anyway enjoy my <b>CLASSIC</b> Pokedex
+
+### Updates
+Temporarily noting yet :(
