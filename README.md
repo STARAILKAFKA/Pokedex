@@ -12,3 +12,9 @@ I don't know why my URL looks strange, anyway enjoy my <b>CLASSIC</b> Pokedex
 
 ### Updates
 Temporarily noting yet :(
+
+### Known Problems
+1) The inside of the Pokedex background is the same as the outside
+2) The Boarder color is not correct
+
+Try to fix someday :(
