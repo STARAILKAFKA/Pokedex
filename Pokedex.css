@@ -10,12 +10,11 @@ body {
     border: 10px solid lightgray;
     border-radius: 10px;
 
-    /* background-color: green; */
     display: flex;
     margin: 0 auto;
     margin-top: 60px;
 
-    background: url("white") no-repeat;
+    background: url("green") no-repeat;
     background-size: cover;
     
 }
