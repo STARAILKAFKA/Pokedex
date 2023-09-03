@@ -44,13 +44,11 @@ async function getPokemon(num) {
 function updatePokemon(){
     document.getElementById("pokemon-img").src = pokedex[this.id]["img"];
 
-    //clear previous type
     let typesDiv = document.getElementById("pokemon-types");
     while (typesDiv.firstChild) {
         typesDiv.firstChild.remove();
     }
-
-    //update types
+    
     let types = pokedex[this.id]["types"];
     for (let i = 0; i < types.length; i++) {
         let type = document.createElement("span");
@@ -60,6 +58,6 @@ function updatePokemon(){
         typesDiv.append(type);
     }
 
-    //update description
+    
     document.getElementById("pokemon-description").innerText = pokedex[this.id]["desc"];
 }
